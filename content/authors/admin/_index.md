@@ -42,12 +42,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fas
+  link: https://www.linkedin.com/in/alasdaircgray/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/A_CGray
 - icon: github
   icon_pack: fab
   link: https://github.com/A-Gray-94
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0213-2763
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

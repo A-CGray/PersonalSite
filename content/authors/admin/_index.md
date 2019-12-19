@@ -43,7 +43,7 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/alasdaircgray/
 - icon: twitter
   icon_pack: fab

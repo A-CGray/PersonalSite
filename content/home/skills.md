@@ -17,14 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "calculator"
   icon_pack = "fas"
-  name = "Maths"
+  name = "Maths Stuff"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "plane"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Plane Stuff"
+  description = "50%"  
   
 [[feature]]
   icon = "drum"
